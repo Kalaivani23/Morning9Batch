@@ -14,6 +14,8 @@ public class JavaDetails extends SeleniumDetails {
 		int a = 22;
 		int b = 87;
 		System.out.println(a * b);
+		System.out.println("hai");
+
 	}
 
 	public static void main(String[] args) {
