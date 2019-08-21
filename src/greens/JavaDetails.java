@@ -24,4 +24,5 @@ public class JavaDetails extends SeleniumDetails {
 		c.java();
 
 	}
+	
 }
