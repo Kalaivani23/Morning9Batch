@@ -12,5 +12,6 @@ public class SeleniumDetails {
 		s.seleniumSyllabus();
 		System.out.println("hello");
 		
+		
 	}
 }
