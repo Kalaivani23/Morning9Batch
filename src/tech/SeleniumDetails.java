@@ -4,6 +4,7 @@ public class SeleniumDetails {
 
 	void seleniumSyllabus() {
 		System.out.println("Locators");
+		System.out.println("hi hai");
 
 	}
 	public static void main(String[] args) {
