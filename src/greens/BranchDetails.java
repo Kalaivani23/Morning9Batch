@@ -11,6 +11,7 @@ public class BranchDetails {
 		System.out.println("hi");
 		System.out.println(b/a);
 		System.out.println("Welcome");
+		System.out.println(a*b);
 		
 
 	}
