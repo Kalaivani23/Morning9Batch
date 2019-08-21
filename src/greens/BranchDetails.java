@@ -13,6 +13,7 @@ public class BranchDetails {
 		System.out.println("Welcome");
 		System.out.println(a * b);
 		System.out.println("ASy");
+		System.out.println("123456");
 
 	}
 }
