@@ -12,7 +12,7 @@ public class BranchDetails {
 		System.out.println(b / a);
 		System.out.println("Welcome");
 		System.out.println(a * b);
-		System.out.println("AS");
+		System.out.println("ASy");
 
 	}
 }
